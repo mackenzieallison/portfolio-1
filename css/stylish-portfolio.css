@@ -13,7 +13,7 @@ html, body {
 
 body {
   font-family: 'Cutive Mono', monospace;
-  font-size: 0.5em;
+  font-size: 1em;
   color: white;
 }
 
@@ -25,20 +25,20 @@ body {
 
 .text-vertical-center h1 {
   font-family: 'VT323', monospace;
-  font-size: 96px;
+  font-size: 48px;
   margin: 0;
   padding: 0;
 }
 
-.h1 {
+h1 {
   font-family: 'VT323', monospace;
-  font-size: 96px;
+  font-size: 48px;
 }
 
 .text-vertical-center h3 {
   /* font-family: 'Press Start 2P', cursive; */
   font-family: 'VT323', monospace;
-  font-size: 48px;
+  font-size: 24px;
 }
 
 
