@@ -186,7 +186,7 @@ hr.small {
 .callout {
   display: table;
   width: 100%;
-  height: 200px;
+  height: 100px;
   color: #fff;
   background: url(../img/lineslight.jpg) no-repeat center center scroll;
   webkit-background-size: cover;
