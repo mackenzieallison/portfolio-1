@@ -58,6 +58,7 @@ h1 {
 
 .btn-light {
   color: #333;
+  font-weight: 700;
   border: none;
   border-radius: 0;
   background-color: rgb(255, 255, 255);
