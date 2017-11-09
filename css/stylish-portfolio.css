@@ -229,16 +229,8 @@ hr.small {
     background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
 }
 
-/* Modal Content (Image) */
+/* Modal Content */
 .modal-content {
-    margin: auto;
-    display: block;
-    width: 80%;
-    max-width: 700px;
-}
-
-/* Caption of Modal Image (Image Text) - Same Width as the Image */
-#caption {
     margin: auto;
     display: block;
     width: 80%;
