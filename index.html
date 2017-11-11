@@ -90,6 +90,7 @@
             <h1>Portfolio</h1>
             <hr class="small">
             <div class="row">
+              // First Portfolio Item 
               <div class="col-md-6">
                 <div class="portfolio-item">
                   <img id="myImg" src="img/StudyerLogo.png" height="333" width="500">
@@ -123,12 +124,13 @@
                 </div>
               </div>
               
+              // Second Portfolio Example 
               <div class="col-md-6">
                 <div class="portfolio-item">
                   <img id="myImgTwo" src="img/StudyerLogo.png" height="333" width="500">
                   <!-- The Modal -->
                   <div id="myModalTwo" class="modal">
-                    <span id="spanTwo" class="close">&times;</span>
+                    <span class="close">&times;</span>
                     <div class="modal-content">heyhihellooo</div>
                   </div>
                   <script>
@@ -146,7 +148,7 @@
                     }
 
                     // Get the <span> element that closes the modal
-                    var spanTwo = document.getElementById('spanTwo')[0];
+                    var spanTwo = document.getElementsByClassName("close")[0];
 
                     // When the user clicks on <span> (x), close the modal
                     spanTwo.onclick = function() { 
