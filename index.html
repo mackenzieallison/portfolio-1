@@ -90,7 +90,7 @@
             <h1>Portfolio</h1>
             <hr class="small">
             <div class="row">
-              // First Portfolio Item 
+              <!-- First Portfolio Item -->
               <div class="col-md-6">
                 <div class="portfolio-item">
                   <img id="myImg" src="img/StudyerLogo.png" height="333" width="500">
@@ -105,11 +105,11 @@
 
                     // Get the image and insert it inside the modal - use its "alt" text as a caption
                     var img = document.getElementById('myImg');
-                    var modalImg = document.getElementById("img01");
+                    // var modalImg = document.getElementById("img01");
                     var captionText = document.getElementById("caption");
                     img.onclick = function(){
                       modal.style.display = "block";
-                      modalImg.src = this.src;
+                      // modalImg.src = this.src;
                       captionText.innerHTML = this.alt;
                     }
 
@@ -124,7 +124,7 @@
                 </div>
               </div>
               
-              // Second Portfolio Example 
+              <!-- Second Portfolio Example -->
               <div class="col-md-6">
                 <div class="portfolio-item">
                   <img id="myImgTwo" src="img/StudyerLogo.png" height="333" width="500">
@@ -139,11 +139,11 @@
 
                     // Get the image and insert it inside the modal - use its "alt" text as a caption
                     var imgTwo = document.getElementById('myImgTwo');
-                    var modalImgTwo = document.getElementById("img02");
+                    // var modalImgTwo = document.getElementById("img02");
                     var captionTextTwo = document.getElementById("captionTwo");
                     imgTwo.onclick = function(){
                       modalTwo.style.display = "block";
-                      modalImgTwo.src = this.src;
+                      // modalImgTwo.src = this.src;
                       captionTextTwo.innerHTML = this.alt;
                     }
 
