@@ -230,6 +230,14 @@ hr.small {
 
 #myImgThree:hover {opacity: 0.7;}
 
+#myImgFour {
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.3;
+}
+
+#myImgFour:hover {opacity: 0.7;}
+
 /* The Modal (background) */
 .modal {
     display: none; /* Hidden by default */
@@ -324,6 +332,24 @@ hr.small {
 
 .closeThree:hover,
 .closeThree:focus {
+    color: #bbb;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+/* The 4th Close Button */
+.closeFour {
+    position: absolute;
+    top: 15px;
+    right: 35px;
+    color: #f1f1f1;
+    font-size: 40px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.closeFour:hover,
+.closeFour:focus {
     color: #bbb;
     text-decoration: none;
     cursor: pointer;
