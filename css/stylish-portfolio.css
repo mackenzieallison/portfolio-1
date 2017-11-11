@@ -222,6 +222,14 @@ hr.small {
 
 #myImgTwo:hover {opacity: 0.7;}
 
+#myImgThree {
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.3;
+}
+
+#myImgThree:hover {opacity: 0.7;}
+
 /* The Modal (background) */
 .modal {
     display: none; /* Hidden by default */
@@ -298,6 +306,24 @@ hr.small {
 
 .closeTwo:hover,
 .closeTwo:focus {
+    color: #bbb;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+/* The 3rd Close Button */
+.closeThree {
+    position: absolute;
+    top: 15px;
+    right: 35px;
+    color: #f1f1f1;
+    font-size: 40px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.closeThree:hover,
+.closeThree:focus {
     color: #bbb;
     text-decoration: none;
     cursor: pointer;
