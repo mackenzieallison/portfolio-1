@@ -58,6 +58,10 @@ hr {
     border-color: #453B31;
 } 
 
+.browniconcolor {
+  color: #453B31;
+}
+
 /* Custom Button Styles */
 
 .btn-dark {
