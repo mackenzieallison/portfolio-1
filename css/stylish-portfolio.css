@@ -12,13 +12,13 @@ html, body {
 }
 
 body {
-  font-family: 'Oswald', sans-serif;
+  font-family: 'PT Serif', serif;
   font-size: 1em;
   color: white;
 }
 
 p {
-  font-family: 'Oswald', sans-serif;
+  font-family: 'PT Serif', serif;
   font-size: 16px;
   color: #A89400;
 }
@@ -35,17 +35,18 @@ h1 {
   display: table-cell;
   text-align: center;
   vertical-align: middle;
-  font-family: 'Dr Sugiyama', cursive;
   color: black; 
 }
 
 .text-vertical-center h1 {
+  font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
   font-size: 72px;
   margin: 0;
   padding: 0;
 }
 
 .text-vertical-center h3 {
+  font-family: 'PT Serif', serif;
   font-size: 24px;
 }
 
