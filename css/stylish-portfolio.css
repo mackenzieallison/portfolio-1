@@ -245,8 +245,7 @@ hr.small {
     width: 100%; /* Full width */
     height: 700px; /* Full height */
     overflow: auto; /* Enable scroll if needed */
-    background-color: #361100; /* Fallback color */
-    background-color: #1F034E; /* Black w/ opacity */
+    background-color: #B89E83; /* Fallback color */
 }
 
 /* Modal Content */
