@@ -127,35 +127,40 @@ hr.small {
   display: block;
   text-decoration: none;
   font-family: 'Mrs Saint Delafield', cursive;
+  font-size: 24px;
   color: #A89400;
 }
 
 .sidebar-nav li a:hover {
   text-decoration: none;
   font-family: 'Mrs Saint Delafield', cursive;
+  font-size: 24px;
   color: #A89400;
   background: #2A0D00;
 }
 
 .sidebar-nav li a:active, .sidebar-nav li a:focus {
   font-family: 'Mrs Saint Delafield', cursive;
+  font-size: 24px;
   text-decoration: none;
 }
 
 .sidebar-nav>.sidebar-brand {
   font-family: 'Mrs Saint Delafield', cursive;
-  font-size: 18px;
+  font-size: 24px;
   line-height: 55px;
   height: 55px;
 }
 
 .sidebar-nav>.sidebar-brand a {
   font-family: 'Mrs Saint Delafield', cursive;
+  font-size: 24px;
   color: #A89400;
 }
 
 .sidebar-nav>.sidebar-brand a:hover {
   font-family: 'Mrs Saint Delafield', cursive;
+  font-size: 24px;
   color: #A89400;
   background: none;
 }
