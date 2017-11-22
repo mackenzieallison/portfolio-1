@@ -53,6 +53,7 @@ h1 {
 /* Custom Button Styles */
 
 .btn-dark {
+  font-family: 'Mrs Saint Delafield', cursive;
   color: #A89400;
   border: none;
   border-radius: 0;
@@ -61,6 +62,7 @@ h1 {
 }
 
 .btn-dark:hover, .btn-dark:focus, .btn-dark:active {
+  font-family: 'Mrs Saint Delafield', cursive;
   color: #A89400;
   background-color: #2A0D00;
 }
