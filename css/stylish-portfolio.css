@@ -191,7 +191,7 @@ hr.small {
 
 .about {
   padding: 50px 0;
-  background: url(../img/linesblack.jpg) no-repeat center center scroll;
+  background-color: #1F034E;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -205,7 +205,7 @@ hr.small {
   width: 100%;
   height: 100px;
   color: #fff;
-  background: url(../img/lineslight.jpg) no-repeat center center scroll;
+  background-color: #A89400;
   webkit-background-size: cover;
   moz-background-size: cover;
   -o-background-size: cover;
@@ -375,7 +375,7 @@ hr.small {
 
 .portfolio {
   padding: 50px 0;
-  background: url(../img/linesblack.jpg) no-repeat center center scroll;
+  background-color: #1F034E;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -398,7 +398,7 @@ hr.small {
 
 .contact {
   padding: 50px 0;
-  background: url(../img/linesblack.jpg) no-repeat center center scroll;
+  background-color: #1F034E;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -414,7 +414,7 @@ hr.small {
 footer {
   padding: 100px 0;
   height: 200px; 
-  background: url(../img/lineslight.jpg);
+  background-color: #1F034E;
 }
 
 #to-top {
