@@ -14,18 +14,15 @@ html, body {
 body {
   font-family: 'PT Serif', serif;
   font-size: 1em;
-  color: white;
+  color: #453B31;
 }
 
 p {
-  font-family: 'PT Serif', serif;
   font-size: 16px;
-  color: black;
 }
 
 h1 {
-  font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
-  color: black; 
+  font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif; 
   font-size: 48px;
 }
 
@@ -35,7 +32,6 @@ h1 {
   display: table-cell;
   text-align: center;
   vertical-align: middle;
-  color: black; 
 }
 
 .text-vertical-center h1 {
@@ -65,20 +61,6 @@ h1 {
   font-size: 24px;
   color: white;
   background-color: #B89E83;
-}
-
-.btn-light {
-  color: #333;
-  font-weight: 700;
-  border: none;
-  border-radius: 0;
-  background-color: #732400;
-  opacity: 0.5;
-}
-
-.btn-light:hover, .btn-light:focus, .btn-light:active {
-  color: #333;
-  background-color: #461803;
 }
 
 
@@ -125,6 +107,7 @@ hr.small {
   display: block;
   text-decoration: none;
   font-size: 24px;
+  color: white; 
 }
 
 .sidebar-nav li a:hover {
@@ -419,8 +402,7 @@ hr.small {
 footer {
   padding: 100px 0;
   height: 200px; 
-  background-color: #E9DFD6;
-  color: #361100; 
+  background-color: #E9DFD6; 
   font-size: 24px; 
 }
 
