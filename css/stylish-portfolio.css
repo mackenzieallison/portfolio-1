@@ -24,6 +24,7 @@ p {
 h1 {
   font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif; 
   font-size: 48px;
+  font-weight: 700; 
 }
 
 /* Header Text */ 
@@ -256,7 +257,6 @@ hr.small {
     top: 0;
     width: 100%; /* Full width */
     height: 700px; /* Full height */
-    overflow: auto; /* Enable scroll if needed */
     background-color: #B89E83; /* Fallback color */
 }
 
@@ -269,6 +269,7 @@ hr.small {
     text-align: center;
     padding: 10px 0;
     height: 700px;
+    overflow: scroll; 
 }
 
 /* Add Animation - Zoom in the Modal */
