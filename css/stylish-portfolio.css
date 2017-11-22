@@ -54,19 +54,17 @@ h1 {
 
 .btn-dark {
   font-size: 24px;
-  font-family: 'Mrs Saint Delafield', cursive;
-  color: #A89400;
+  color: white;
   border: none;
   border-radius: 0;
-  background-color: #361100;
+  background-color: #B89E83;
   opacity: 0.5;
 }
 
 .btn-dark:hover, .btn-dark:focus, .btn-dark:active {
   font-size: 24px;
-  font-family: 'Mrs Saint Delafield', cursive;
-  color: #A89400;
-  background-color: #2A0D00;
+  color: white;
+  background-color: #B89E83;
 }
 
 .btn-light {
@@ -208,7 +206,7 @@ hr.small {
 
 .about {
   padding: 50px 0;
-  background-color: #1F034E; 
+  background-color: #E9DFD6; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -222,7 +220,7 @@ hr.small {
   width: 100%;
   height: 100px;
   color: #fff;
-  background-color: #A89400;
+  background-color: #B89E83;
   webkit-background-size: cover;
   moz-background-size: cover;
   -o-background-size: cover;
@@ -392,7 +390,7 @@ hr.small {
 
 .portfolio {
   padding: 50px 0;
-  background-color: #1F034E;
+  background-color: #E9DFD6;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -415,7 +413,7 @@ hr.small {
 
 .contact {
   padding: 50px 0;
-  background-color: #1F034E;
+  background-color: #E9DFD6;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -431,9 +429,8 @@ hr.small {
 footer {
   padding: 100px 0;
   height: 200px; 
-  background-color: #A89400;
+  background-color: #E9DFD6;
   color: #361100; 
-  font-family: 'Mrs Saint Delafield', cursive;
   font-size: 24px; 
 }
 
