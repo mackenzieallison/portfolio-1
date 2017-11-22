@@ -55,12 +55,12 @@ h1 {
   color: #fff;
   border: none;
   border-radius: 0;
-  background-color: rgba(0, 0, 0, .4);
+  background-color: #361100;
 }
 
 .btn-dark:hover, .btn-dark:focus, .btn-dark:active {
   color: #fff;
-  background-color: rgba(0, 0, 0, .7);
+  background-color: #2A0D00;
 }
 
 .btn-light {
@@ -68,13 +68,13 @@ h1 {
   font-weight: 700;
   border: none;
   border-radius: 0;
-  background-color: rgb(255, 255, 255);
+  background-color: #732400;
   opacity: 0.5;
 }
 
 .btn-light:hover, .btn-light:focus, .btn-light:active {
   color: #333;
-  background-color: rgba(255, 255, 255, .8);
+  background-color: #461803;
 }
 
 
