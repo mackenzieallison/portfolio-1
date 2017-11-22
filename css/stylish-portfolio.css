@@ -258,6 +258,7 @@ hr.small {
     width: 100%; /* Full width */
     height: 700px; /* Full height */
     background-color: #B89E83; /* Fallback color */
+    overflow: scroll; 
 }
 
 /* Modal Content */
@@ -269,7 +270,6 @@ hr.small {
     text-align: center;
     padding: 10px 0;
     height: 700px;
-    overflow: scroll; 
 }
 
 /* Add Animation - Zoom in the Modal */
