@@ -52,10 +52,11 @@ h1 {
 /* Custom Button Styles */
 
 .btn-dark {
-  color: #fff;
+  color: #A89400;
   border: none;
   border-radius: 0;
   background-color: #361100;
+  opacity: 0.5;
 }
 
 .btn-dark:hover, .btn-dark:focus, .btn-dark:active {
